@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-docker&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/sf-etl/src/Sandbox" />
+      <root url="file://$USER_HOME$/sf-etl/src/github.com" />
+      <root url="file://$USER_HOME$/sf-etl/src/bitbucket.org" />
+      <root url="file://$USER_HOME$/sf-etl/src/golang.org" />
+      <root url="file://$USER_HOME$/sf-etl/src/gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/sf-etl/src/Sandbox" />
+      <root url="file://$USER_HOME$/sf-etl/src/github.com" />
+      <root url="file://$USER_HOME$/sf-etl/src/bitbucket.org" />
+      <root url="file://$USER_HOME$/sf-etl/src/golang.org" />
+      <root url="file://$USER_HOME$/sf-etl/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
